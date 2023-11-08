@@ -1,1 +1,1 @@
-# Namari Free Website Template - Free-CSS.com
+Html / Css / Bootstrap / JS
